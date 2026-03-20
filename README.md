@@ -1,6 +1,6 @@
 # Datathon Passos Mágicos - Prevenção de Risco Educacional
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datathon-passos-magicos.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://datathon-tech5-frm3ipg2f42sg9t8ozynyp.streamlit.app/)
 
 ## 📋 Sobre o Projeto
 
@@ -66,7 +66,7 @@ A solução foi desenhada seguindo princípios de **Engenharia de Dados** e **ML
 
 ```bash
 # Clone o repositório
-git clone https://github.com/gustmacena/datathon-passos-magicos.git
+git clone https://github.com/ArthurPicolo/datathon-tech5
 cd datathon-passos-magicos
 
 # Instale as dependências
@@ -109,11 +109,11 @@ A aplicação estará disponível em `http://localhost:8501`
 
 ## 🌐 Deploy no Streamlit Cloud
 
-A aplicação está disponível online em: [https://datathon-ong-fiap.streamlit.app/](https://datathon-ong-fiap.streamlit.app/)
+A aplicação está disponível online em: [https://datathon-tech5-frm3ipg2f42sg9t8ozynyp.streamlit.app/](https://datathon-tech5-frm3ipg2f42sg9t8ozynyp.streamlit.app/)
 
 ## 👥 Equipe
 
-- **Gustavo Macena** - Data Analyst & Machine Learning Engineer
+- **Arthur Picolo** - Data Analyst & Business Intelligence Analyst
 - **Equipe de Data Analytics**
 
 ## 📄 Licença
@@ -123,9 +123,6 @@ Este projeto foi desenvolvido para fins educacionais como parte do Datathon Pass
 ## 🔗 Links Úteis
 
 - [Associação Passos Mágicos](https://passosmagicos.org.br/)
-- [Repositório GitHub](https://github.com/gustmacena/datathon-passos-magicos)
-- [Aplicação Streamlit](https://datathon-ong-fiap.streamlit.app/)
+- [Repositório GitHub](https://github.com/ArthurPicolo/datathon-tech5)
+- [Aplicação Streamlit](https://datathon-tech5-frm3ipg2f42sg9t8ozynyp.streamlit.app/)
 
----
-
-**Desenvolvido com ❤️ para transformar vidas através da educação**
